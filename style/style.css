@@ -207,7 +207,7 @@ nav ul>li{
 }
 
 .search {
-    background-image: url('/Flower/Rectangle 9.png');
+    background-image: url('./Flower/bg.png');
     text-align: center;
     padding-bottom: 80px;
 }
